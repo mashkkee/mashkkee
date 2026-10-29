@@ -17,6 +17,31 @@
 
 ---
 
+## 🎮 Play: tic-tac-toe in the issues
+
+<div align="center">
+
+<img src="game/board.svg" width="560" alt="tic-tac-toe board">
+
+</div>
+
+Click a number. GitHub opens a new issue; press **Submit new issue**. A bot plays your move, replies, and closes it. Turns alternate X then O, and anyone can play either side.
+
+<div align="center">
+
+| [**1**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%201) | [**2**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%202) | [**3**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%203) |
+| :---: | :---: | :---: |
+| [**4**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%204) | [**5**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%205) | [**6**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%206) |
+| [**7**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%207) | [**8**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%208) | [**9**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%209) |
+
+[**↺ reset the board**](https://github.com/mashkkee/mashkkee/issues/new?title=ttt%20reset)
+
+<sub>The board image refreshes once GitHub's image cache catches up, usually within a few minutes.</sub>
+
+</div>
+
+---
+
 ## 🧭 About
 
 <details open>
