@@ -5,6 +5,8 @@
   <img alt="mashkkee profile card" src="light_mode.svg" width="900">
 </picture>
 
+<img src="band.svg" width="900" alt="animated particle field with a rotating wireframe globe">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=900&color=FF2E2E&center=true&vCenter=true&random=false&width=760&lines=CODE+FIRST%2C+EXCUSES+NEVER;TESTS+PASS+OR+NOTHING+SHIPS;METADATA+OVER+BOILERPLATE;BUILDING+SYSTEMS+THAT+SCALE)](https://readme-typing-svg.demolab.com)
 
 </div>
