@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="490" viewBox="0 0 420 490" font-family="Consolas, Courier New, monospace">
 <rect width="420" height="490" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="30" y="44" fill="#ff2e2e" font-size="17" font-weight="bold">2048 // PLAY IN THE ISSUES</text>
-<text x="30" y="72" fill="#e6edf3" font-size="14">score 0</text>
-<rect x="30" y="90" width="86" height="86" rx="8" fill="#eee4da"/>
-<text x="73" y="142" fill="#776e65" font-size="30" font-weight="bold" text-anchor="middle">2</text>
+<text x="30" y="72" fill="#e6edf3" font-size="14">score 4</text>
+<rect x="30" y="90" width="86" height="86" rx="8" fill="#ede0c8"/>
+<text x="73" y="142" fill="#776e65" font-size="30" font-weight="bold" text-anchor="middle">4</text>
 <rect x="124" y="90" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="218" y="90" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="312" y="90" width="86" height="86" rx="8" fill="#1c2128"/>
@@ -11,13 +11,14 @@
 <rect x="124" y="184" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="218" y="184" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="312" y="184" width="86" height="86" rx="8" fill="#1c2128"/>
-<rect x="30" y="278" width="86" height="86" rx="8" fill="#eee4da"/>
-<text x="73" y="330" fill="#776e65" font-size="30" font-weight="bold" text-anchor="middle">2</text>
+<rect x="30" y="278" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="124" y="278" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="218" y="278" width="86" height="86" rx="8" fill="#1c2128"/>
-<rect x="312" y="278" width="86" height="86" rx="8" fill="#1c2128"/>
+<rect x="312" y="278" width="86" height="86" rx="8" fill="#eee4da"/>
+<text x="355" y="330" fill="#776e65" font-size="30" font-weight="bold" text-anchor="middle">2</text>
 <rect x="30" y="372" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="124" y="372" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="218" y="372" width="86" height="86" rx="8" fill="#1c2128"/>
 <rect x="312" y="372" width="86" height="86" rx="8" fill="#1c2128"/>
+<text x="30" y="474" fill="#8b949e" font-size="12">last: up by @mashkkee</text>
 </svg>
