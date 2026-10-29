@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="775" height="450" viewBox="0 0 775 450" font-family="Consolas, 'Courier New', monospace" font-size="14">
+<rect width="775" height="450" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="18" r="5" fill="#ff5f56"/><circle cx="40" cy="18" r="5" fill="#ffbd2e"/><circle cx="58" cy="18" r="5" fill="#27c93f"/>
+<text x="22.0" y="46" fill="#8b949e" xml:space="preserve">$ mashkkee --profile</text>
+<text x="22.0" y="66" fill="#c9d1d9" xml:space="preserve">                  +---+##########</text>
+<text x="22.0" y="86" fill="#c9d1d9" xml:space="preserve">                -#+#####-</text>
+<text x="22.0" y="106" fill="#c9d1d9" xml:space="preserve">                ##+</text>
+<text x="22.0" y="126" fill="#c9d1d9" xml:space="preserve">                .            ---</text>
+<text x="22.0" y="146" fill="#c9d1d9" xml:space="preserve">                   #-+-  ..-+###+ #</text>
+<text x="22.0" y="166" fill="#c9d1d9" xml:space="preserve">                 + .  -</text>
+<text x="22.0" y="186" fill="#c9d1d9" xml:space="preserve">                 --  -++-     -####</text>
+<text x="22.0" y="206" fill="#c9d1d9" xml:space="preserve">                 -.. -#++++-.##- +</text>
+<text x="22.0" y="226" fill="#c9d1d9" xml:space="preserve">                 --.  ######-     -</text>
+<text x="22.0" y="246" fill="#c9d1d9" xml:space="preserve">                +#-    .######  -#-</text>
+<text x="22.0" y="266" fill="#c9d1d9" xml:space="preserve">                  ##+--.  -#######</text>
+<text x="22.0" y="286" fill="#c9d1d9" xml:space="preserve">                         -             .</text>
+<text x="22.0" y="306" fill="#c9d1d9" xml:space="preserve">           .-       ###++###+  -        .</text>
+<text x="22.0" y="326" fill="#c9d1d9" xml:space="preserve">            -         ##+-     -</text>
+<text x="22.0" y="346" fill="#c9d1d9" xml:space="preserve">    -       ..          #+    .          -</text>
+<text x="22.0" y="366" fill="#c9d1d9" xml:space="preserve">    -        -         #+-#   .          .</text>
+<text x="22.0" y="386" fill="#c9d1d9" xml:space="preserve">    -        -         #--#               +</text>
+<text x="22.0" y="406" fill="#c9d1d9" xml:space="preserve">    +  ...    -        #--#  .            +</text>
+<text x="22.0" y="426" fill="#c9d1d9" xml:space="preserve">    #-..    . --      -#--#-            ..+</text>
+<text x="416.8" y="66" fill="#ff2e2e" font-weight="bold">erhad@mashkkee</text>
+<text x="416.8" y="86" fill="#30363d">-------------------------</text>
+<text x="416.8" y="106" xml:space="preserve"><tspan fill="#ffa657">Name:</tspan><tspan fill="#c9d1d9">      Erhad Masovic</tspan></text>
+<text x="416.8" y="126" xml:space="preserve"><tspan fill="#ffa657">Handle:</tspan><tspan fill="#c9d1d9">    mashkkee</tspan></text>
+<text x="416.8" y="146" xml:space="preserve"><tspan fill="#ffa657">Focus:</tspan><tspan fill="#c9d1d9">     business platforms</tspan></text>
+<text x="416.8" y="166" xml:space="preserve"><tspan fill="#ffa657">Backend:</tspan><tspan fill="#c9d1d9">   C# .NET</tspan></text>
+<text x="416.8" y="186" xml:space="preserve"><tspan fill="#ffa657">Frontend:</tspan><tspan fill="#c9d1d9">  TypeScript, React</tspan></text>
+<text x="416.8" y="206" xml:space="preserve"><tspan fill="#ffa657">Data:</tspan><tspan fill="#c9d1d9">      PostgreSQL</tspan></text>
+<text x="416.8" y="226" xml:space="preserve"><tspan fill="#ffa657">Infra:</tspan><tspan fill="#c9d1d9">     Docker, K8s, Keycloak</tspan></text>
+<text x="416.8" y="246" xml:space="preserve"><tspan fill="#ffa657">Shell:</tspan><tspan fill="#c9d1d9">     zsh</tspan></text>
+<text x="416.8" y="266" xml:space="preserve"><tspan fill="#ffa657">Mode:</tspan><tspan fill="#c9d1d9">      build it, ship it, no excuses</tspan></text>
+<text x="400.0" y="106" fill="#ff2e2e" font-size="26" font-weight="bold">☞<animate attributeName="y" values="106;266;266;106;106" keyTimes="0;0.4;0.55;0.95;1" dur="5s" repeatCount="indefinite"/></text>
+</svg>
