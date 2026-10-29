@@ -10,7 +10,7 @@ permissions:
 
 # One move at a time: two moves landing together would both read the same board.
 concurrency:
-  group: tic-tac-toe
+  group: readme-games
   cancel-in-progress: false
 
 jobs:

@@ -1,0 +1,53 @@
+name: game-2048
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# Shares a group with tic-tac-toe: both push to main, so their moves must not overlap.
+concurrency:
+  group: readme-games
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, '2048')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply the move
+        id: move
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          reply=$(python3 game/2048.py)
+          {
+            echo "reply<<EOF"
+            echo "$reply"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Commit the board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add game/state2048.json game/board2048.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "2048: move from #${{ github.event.issue.number }}"
+            git push
+          fi
+
+      - name: Reply and close the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPLY: ${{ steps.move.outputs.reply }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body "$REPLY"
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"

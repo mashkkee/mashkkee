@@ -42,6 +42,31 @@ Click a number. GitHub opens a new issue; press **Submit new issue**. A bot play
 
 ---
 
+## 🔢 Play: 2048 in the issues
+
+<div align="center">
+
+<img src="game/board2048.svg" width="420" alt="2048 board">
+
+</div>
+
+Click a direction. GitHub opens a new issue; press **Submit new issue**. A bot slides the tiles, adds a new one, replies, and closes it.
+
+<div align="center">
+
+| | [**▲ up**](https://github.com/mashkkee/mashkkee/issues/new?title=2048%20up) | |
+| :---: | :---: | :---: |
+| [**◀ left**](https://github.com/mashkkee/mashkkee/issues/new?title=2048%20left) | | [**right ▶**](https://github.com/mashkkee/mashkkee/issues/new?title=2048%20right) |
+| | [**▼ down**](https://github.com/mashkkee/mashkkee/issues/new?title=2048%20down) | |
+
+[**↺ new game**](https://github.com/mashkkee/mashkkee/issues/new?title=2048%20new)
+
+<sub>Same as tic-tac-toe: the image refreshes once GitHub's image cache catches up.</sub>
+
+</div>
+
+---
+
 ## 🧭 About
 
 <details open>
