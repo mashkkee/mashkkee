@@ -1,6 +1,9 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:140000,100:ff2e2e&height=260&section=header&text=MASHKKEE&fontSize=96&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=BUILD%20IT.%20SHIP%20IT.%20NO%20EXCUSES.&descAlignY=62&descSize=20&descColor=ff2e2e)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <img alt="mashkkee profile card" src="light_mode.svg" width="900">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=900&color=FF2E2E&center=true&vCenter=true&random=false&width=760&lines=CODE+FIRST%2C+EXCUSES+NEVER;TESTS+PASS+OR+NOTHING+SHIPS;METADATA+OVER+BOILERPLATE;BUILDING+SYSTEMS+THAT+SCALE)](https://readme-typing-svg.demolab.com)
 
