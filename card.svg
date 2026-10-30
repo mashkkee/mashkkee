@@ -3,7 +3,7 @@
 <circle cx="22" cy="18" r="5" fill="#ff5f56"/><circle cx="40" cy="18" r="5" fill="#ffbd2e"/><circle cx="58" cy="18" r="5" fill="#27c93f"/>
 <text x="22.0" y="46" fill="#8b949e" xml:space="preserve">$ mashkkee --profile</text>
 <g>
-<animateTransform attributeName="transform" type="translate" values="0 0;-12 0;12 0;-12 0;12 0;0 0;0 0" keyTimes="0;0.1;0.3;0.5;0.7;0.85;1" dur="3.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 12;0 -12;0 12;0 0;0 0" keyTimes="0;0.1;0.3;0.5;0.7;0.85;1" dur="1s" repeatCount="indefinite"/>
 <text x="22.0" y="66" fill="#c9d1d9" xml:space="preserve">                  +---+##########</text>
 <text x="22.0" y="86" fill="#c9d1d9" xml:space="preserve">                -#+#####-</text>
 <text x="22.0" y="106" fill="#c9d1d9" xml:space="preserve">                ##+</text>
